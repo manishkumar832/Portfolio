@@ -1,5 +1,5 @@
 import './About.css'
-import profileImg from './assets/profile.jpg' // <-- Import your image
+import profileImg from '../public/profile.jpg' // <-- Import your image
 
 function About() {
     return <div id="about">
